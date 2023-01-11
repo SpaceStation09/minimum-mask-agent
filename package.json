@@ -26,8 +26,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "forta-agent": "^0.1.16",
-    "token-abis": "^1.0.1"
+    "erc20-instance": "^2.0.0",
+    "forta-agent": "^0.1.16"
   },
   "devDependencies": {
     "@types/jest": "^27.0.1",

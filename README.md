@@ -19,5 +19,3 @@ Describe each of the type of alerts fired by this agent
   - Metadata "balance" field contains the $Mask in account
 
 ## Test Data
-
-
